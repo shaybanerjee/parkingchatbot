@@ -1,6 +1,6 @@
 
 # Parking Chat bot -- node.js 
-Project built for Hack The 6ix Hackathon
+Project built for Hack The 6ix.
 
 With this app, you can ask it if Waterloo Parking Lots C, N, W or X are available. 
 
